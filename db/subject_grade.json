@@ -11,16 +11,6 @@
       "isShow": false
     },
     {
-      "id": "01999111",
-      "term": "Mid-Term",
-      "name": "ศาสตร์แห่งแผ่นดิน (Knowledge of the Land)",
-      "semester": "Normal",
-      "Grade": "A",
-      "yr": 1,
-      "Credit": 2,
-      "isShow": false
-    },
-    {
       "id": "01417111",
       "term": "Mid-Term",
       "name": "แคลคูลัส I (Calculus I)",
@@ -48,16 +38,6 @@
       "Grade": "B+",
       "yr": 1,
       "credit": 3,
-      "isShow": false
-    },
-    {
-      "id": "01999111",
-      "term": "Final-Term",
-      "name": "ภาษาอังกฤษในมหาวิทยาลัย (English for University Life)",
-      "semester": "Normal",
-      "yr": "1",
-      "grade": "A",
-      "credit": "1",
       "isShow": false
     }
   ]
